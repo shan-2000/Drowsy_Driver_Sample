@@ -2,7 +2,7 @@
 
 # Introduction
 
-# High leval requirements
+# High level requirements
 |HLR ID|Description|Implemented/Furure|
 |------|-----------|------------------|
 |HLR_1|When ever driver is drowsy, an alarm needs to be triggered|Future|
