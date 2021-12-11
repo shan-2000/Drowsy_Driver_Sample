@@ -18,6 +18,7 @@ LLR:
 |HLR_4|If driver consumes alcohol,vehicle has to be automatically stop|-|
 
 
+
 # Low leval requirements
 |LLR ID|Description|Implemented/Furure|
 |------|-----------|------------------|
