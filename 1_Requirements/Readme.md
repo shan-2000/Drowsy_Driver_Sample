@@ -26,3 +26,7 @@
 |LLR2_HLR_3|If the alcohol is consumed by driver than it gives input to the ignition relay|Future|
 |LLR3_HLR_3|Than ignition is off so the vehicle will be stoped automatically|Future|
 |LLR1_HLR_4|Using GSM module a mesagge is send to relatives whem ant thing happens|Waiting list|
+=======
+LLR:
+4 Requirements
+
