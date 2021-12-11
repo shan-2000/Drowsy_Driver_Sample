@@ -16,7 +16,6 @@ LLR:
 |HLR_2|When Vehicle catches fire, windows need to be opened automatically|-|
 |HLR_3|A message has to be send to the driver relatives when any kind of accident happens|-|
 |HLR_4|If driver consumes alcohol,vehicle has to be automatically stop|-|
-|HLR_5|Various parameters has to be displyed on the LCD screen|-|
 
 
 # Low leval requirements
@@ -33,3 +32,5 @@ LLR:
 |LLR1_HLR_3|Using GSM module a mesagge is send to relatives whem ant thing happens|-|
 |LLR1_HLR_4|A alcohol sensor conneted to the microcontroller continuosly moniter the alcohol presence in vehicle|-|
 |LLR2_HLR_4|If the alcohol is consumed by driver than it gives input to the ignition relay|-|
+|LLR3_HLR_4|Than ignition is off so the vehicle stoped automatically|-|
+
