@@ -83,3 +83,20 @@ reducing accidents.
 ## SWOT Analysis
 
 ![SWOT](https://user-images.githubusercontent.com/94435852/145719082-985766e0-9cd3-4d96-aa0f-e1bb785ec345.PNG)
+
+## 4W and 1H
+
+__WHO:__
+its for the drivers and their own safety.
+
+__WHAT:__
+It means , if this detections happens earlier that to when driver's starts to drive it will save his life as well as it helps to avoid accidents.
+
+__WHEN:__
+Its depends upon the drivers attitute like sleepy face, drowsiness and drunken mode of detection and so.
+
+__WHERE:__
+It mostly happens when the driver feels asleep and drowsy inside the car when he is driving.
+
+__HOW:__
+The driver drowsiness detection is based on an algorithm, which begins recording the driver's steering behavior the moment when the driver starts to drive. It then recognizes changes over the course of long journeys, and thus also the driver's level of fatigue.
