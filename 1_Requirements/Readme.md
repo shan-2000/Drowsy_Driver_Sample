@@ -43,7 +43,7 @@ drivers.
 |HLR_4|A message has to be send to the driver relatives when any kind of accident happens|Waiting list|
 
 
-## Low leval requirements
+## Low level requirements
 |LLR ID|Description|Implemented/Furure|
 |------|-----------|------------------|
 |LLR1_HLR_1|An eye blink sensor has to continuously monitor eye blinking|Future|
