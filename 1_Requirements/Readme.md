@@ -22,6 +22,19 @@ reducing accidents.
 
 • Practically applicable
 
+## Disadvantages
+
+ •Vehicle based measures mostly affected by the
+ geometry of road which sometimes unnecessarily
+ activates the alarming system.
+ 
+ • The driving style of the current driver needs
+ to be learned and modeled for the system to
+ be efficient.
+ 
+ • The condition like micro sleeping which mostly happens
+ in straight highways cannot be detected. 
+
 ## Application
 
 • This system can be used in factories to alert
