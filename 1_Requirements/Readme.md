@@ -7,3 +7,18 @@ Makes you less able to pay attention to the road.
 Slows reaction time if you must brake or steer suddenly.
 Affects your ability to make good decisions.
 
+## Advantages
+
+• The detected abnormal behavior is
+corrected through alarms in real time.
+
+• Life of the driver can be saved by alerting
+him using the alarm system.
+
+• Speed of the vehicle can be controlled.
+
+• Traffic management can be maintained by
+reducing accidents.
+
+• Practically applicable
+
