@@ -48,6 +48,10 @@ activated and the driver is alerted.
 • This system can also be used for railway
 drivers.
 
+## SWOT analysis
+
+![Eye closure duration and blink frequency have a direct ratio of driver's level of drowsiness](https://user-images.githubusercontent.com/94229525/145717517-683abdda-c83a-4502-92a5-da49104fb8d6.png)
+
 # High level requirements
 |HLR ID|Description|Implemented/Furure|
 |------|-----------|------------------|
