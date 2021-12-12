@@ -22,3 +22,17 @@ reducing accidents.
 
 • Practically applicable
 
+## Application
+
+• This system can be used in factories to alert
+the workers.
+
+• If found drowsy, the alarm system gets
+activated and the driver is alerted.
+
+• If there is any obstacles it is alerted to the driver.
+
+• This system can also be used for railway
+drivers.
+
+
