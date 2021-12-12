@@ -1,6 +1,13 @@
 ## Introduction
 
-Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. Various studies have suggested that around 20% of all road accidents are fatigue-related, up to 50% on certain roads. Drivers must keep a close eye on the road, so they can react to sudden events immediately. Driver fatigue often becomes a direct cause of many traffic accidents. Therefore, there is a need to develop the systems that will detect and notify a driver of her/him bad psychophysical condition, which could significantly reduce the number of fatigue-related car accidents. However, the development of such systems encounters many difficulties related to fast and proper recognition of a driver’s fatigue symptoms. One of the technical possibilities to implement driver drowsiness detection systems is to use the vision-based approach. This article presents the currently used driver drowsiness detection systems. The technical aspects of using the vision system to detect a driver drowsiness are also discussed.
+Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. Various studies have suggested that around 20% of all road accidents are fatigue-related, up to 50% on certain roads. Drivers must keep a close eye on the road, so they can react to sudden events immediately. Driver fatigue often becomes a direct cause of many traffic accidents. Therefore, there is a need to develop the systems that will detect and notify a driver of her/him bad psychophysical condition, which could significantly reduce the number of fatigue-related car accidents. However, the development of such systems encounters many difficulties related to fast and proper recognition of a driver’s fatigue symptoms. One of the technical possibilities to implement driver drowsiness detection systems is to use the vision-based approach. This article presents the currently used driver drowsiness detection systems. The technical aspects of using the vision system to detect a driver drowsiness are also discussed. Nowadays, more and more professions require long-term concentration. Drivers must keep a close eye on the road, so they can react to sudden events immediately. Driver fatigue often becomes a direct cause of many traffic accidents. Therefore, there is a need to develop the systems that will detect and notify a driver of her/him bad psychophysical condition, which could significantly reduce the number of fatigue-related car accidents. However, the development of such systems encounters many difficulties related to fast and proper recognition of a driver’s fatigue symptoms.In recent years, driver drowsiness has been one of the major causes of road accidents and can lead to severe physical injuries, deaths and significant economic losses. Statistics indicate the need of a reliable driver drowsiness detection system which could alert the driver before a mishap happens. A number of road accidents might then be avoided if an alert is sent to a driver that is deemed drowsy.Drowsy driving is a major problem . The risk, danger, and often tragic results of drowsy driving are alarming. Drowsy driving is the dangerous combination of driving and sleepiness or fatigue. This usually happens when a driver has not slept enough, but it can also happen because of untreated sleep disorders, medications, drinking alcohol, or shift work.No one knows the exact moment when sleep comes over their body. Falling asleep at the wheel is clearly dangerous but being sleepy affects your ability to drive safely even if you don’t fall asleep. 
+Drowsiness:
+
+Makes you less able to pay attention to the road.
+
+Slows reaction time if you must brake or steer suddenly.
+
+Affects your ability to make good decisions.
 
 ## Application
 
@@ -28,11 +35,25 @@ drivers.
  5. Sense gas & fuel leakage and display its status on car monitoring system. 
  6. Detect if the driver is drunk or not. 
  7. Detect if the driver is feeling sleepy.
+ 8. The detected abnormal behavior is
+corrected through alarms in real time.
+ 9. Life of the driver can be saved by alerting
+him using the alarm system.
+ 10. Speed of the vehicle can be controlled.
+ 11. Traffic management can be maintained by
+reducing accidents.
 
  ## Disadvantages
 
  1. Damage of sensor cannot be detected.
- 2. Not feasible in real time.
+ 2. Vehicle based measures mostly affected by the
+ geometry of road which sometimes unnecessarily
+ activates the alarming system.
+ 3. The driving style of the current driver needs
+ to be learned and modeled for the system to
+ be efficient.
+ 4. The condition like micro sleeping which mostly happens
+ in straight highways cannot be detected. 
 
  ## High level requirements
 |HLR ID|Description|Implemented/Furure|
