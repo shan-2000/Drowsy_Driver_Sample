@@ -5,7 +5,7 @@ Drowsiness:
 
 Makes you less able to pay attention to the road.
 
-Slows reaction time if you must brake or steer suddenly.s
+Slows reaction time if you must brake or steer suddenly.
 
 Affects your ability to make good decisions.
 
