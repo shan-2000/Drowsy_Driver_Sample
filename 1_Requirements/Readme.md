@@ -55,35 +55,6 @@ reducing accidents.
  4. The condition like micro sleeping which mostly happens
  in straight highways cannot be detected. 
 
- ## High level requirements
-|HLR ID|Description|Implemented/Furure|
-|------|-----------|------------------|
-|HLR_1|When ever driver is drowsy, an alarm needs to be triggered|Future|
-|HLR_2|When Vehicle catches fire, windows need to be opened automatically|Future|
-|HLR_3|If driver consumes alcohol,vehicle has to be automatically stop|Future|
-|HLR_4|A message has to be send to the driver relatives when any kind of accident happens|Waiting list|
-
-
-## Low leval requirements
-|LLR ID|Description|Implemented/Furure|
-|------|-----------|------------------|
-|LLR1_HLR_1|An eye blink sensor has to continuously monitor eye blinking|Future|
-|LLR2_HLR_1|When eye blinking rate is high then alarm need to be triggered|Future|
-|LLR2_HLR_1|An warning message has to be displayed on the LCD display|Future|
-|LLR1_HLR_2|A fire sensor that connected to the microcontroller continiously moniter the temparature|Future|
-|LLR2_HLR_2|The temparature sensor has to be connected to the window control.|Future|
-|LLR3_HLR_2|When temparature is too high, it has to consider that fire present in vehicle and give input to the window control|Future|
-|LLR4_HLR_2|After taking the input from fire sensor, windows control has to open the windows|Future|
-|LLR5_HLR_2|A message has to send to relatives using gsm module|Waiting list|
-|LLR1_HLR_3|A alcohol sensor conneted to the microcontroller continuosly moniter the alcohol presence in vehicle|Future|
-|LLR2_HLR_3|If the alcohol is consumed by driver than it gives input to the ignition relay|Future|
-|LLR3_HLR_3|Than ignition is off so the vehicle will be stoped automatically|Future|
-|LLR1_HLR_4|Using GSM module a mesagge is send to relatives whem ant thing happens|Waiting list|
-
-## SWOT Analysis
-
-![SWOT](https://user-images.githubusercontent.com/94435852/145719082-985766e0-9cd3-4d96-aa0f-e1bb785ec345.PNG)
-
 ## 4W and 1H
 
 __WHO:__
@@ -100,6 +71,35 @@ It mostly happens when the driver feels asleep and drowsy inside the car when he
 
 __HOW:__
 The driver drowsiness detection is based on an algorithm, which begins recording the driver's steering behavior the moment when the driver starts to drive. It then recognizes changes over the course of long journeys, and thus also the driver's level of fatigue.
+
+## SWOT Analysis
+
+![SWOT](https://user-images.githubusercontent.com/94435852/145719082-985766e0-9cd3-4d96-aa0f-e1bb785ec345.PNG)
+
+## High level requirements
+|HLR ID|Description|Implemented/Furure|
+|------|-----------|------------------|
+|HLR_1|When ever driver is drowsy, an alarm needs to be triggered|Future|
+|HLR_2|When Vehicle catches fire, windows need to be opened automatically|Future|
+|HLR_3|If driver consumes alcohol,vehicle has to be automatically stop|Future|
+|HLR_4|A message has to be send to the driver relatives when any kind of accident happens|Waiting list|
+
+
+## Low level requirements
+|LLR ID|Description|Implemented/Furure|
+|------|-----------|------------------|
+|LLR1_HLR_1|An eye blink sensor has to continuously monitor eye blinking|Future|
+|LLR2_HLR_1|When eye blinking rate is high then alarm need to be triggered|Future|
+|LLR2_HLR_1|An warning message has to be displayed on the LCD display|Future|
+|LLR1_HLR_2|A fire sensor that connected to the microcontroller continiously moniter the temparature|Future|
+|LLR2_HLR_2|The temparature sensor has to be connected to the window control.|Future|
+|LLR3_HLR_2|When temparature is too high, it has to consider that fire present in vehicle and give input to the window control|Future|
+|LLR4_HLR_2|After taking the input from fire sensor, windows control has to open the windows|Future|
+|LLR5_HLR_2|A message has to send to relatives using gsm module|Waiting list|
+|LLR1_HLR_3|A alcohol sensor conneted to the microcontroller continuosly moniter the alcohol presence in vehicle|Future|
+|LLR2_HLR_3|If the alcohol is consumed by driver than it gives input to the ignition relay|Future|
+|LLR3_HLR_3|Than ignition is off so the vehicle will be stoped automatically|Future|
+|LLR1_HLR_4|Using GSM module a mesagge is send to relatives whem ant thing happens|Waiting list|
 
 
 
